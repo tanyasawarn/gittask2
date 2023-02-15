@@ -7,4 +7,7 @@ pasta
 
 Adding new dish
 
+beans
+pizza
+
 thank you :)
